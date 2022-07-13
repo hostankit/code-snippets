@@ -1,2 +1,2 @@
 # code-snippets
-This repository contains the code snippets of C++ , that helps to save time while coding
+This repository contains the code snippets, that helps to save time while coding
