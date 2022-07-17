@@ -53,3 +53,35 @@ cout >> x >> endl;
 void solve(int x) {
   
 }
+
+
+// Code by Luckyhero613
+
+#include<bits/stdc++.h>
+
+using namespace std;
+#define whd(x) while(x--)
+#define adap(x) x.begin(), x.end()
+#define pb push_back
+#define inchd(i, v, s) for(int i = (v); i <= (s); ++i)
+#define dechd(i, v, s) for(int i = (v); i >= (s); --i)
+#define ll long long
+#define ull unsigned long long
+
+// Code by Luckyhero613
+
+int a[100000];
+void solve() { 
+    
+}
+
+// Code by Luckyhero613
+
+int main() {
+    int t;
+    cin >> t;
+    while(t--) solve();
+    return 0;
+}
+
+// Code by Luckyhero613
